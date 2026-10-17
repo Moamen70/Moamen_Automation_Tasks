@@ -1,0 +1,5 @@
+{
+  "searchTerm": "mazda mx-5",
+  "expectedHost": "ebay.com",
+  "expectedHomeTitleContains": "eBay"
+}
